@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListComposeSample</string>
+    <string name="insert_item_button">insert item</string>
+    <string name="remove_item_button">remove item</string>
+</resources>
